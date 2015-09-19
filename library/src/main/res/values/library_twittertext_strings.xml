@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_int_TwitterText">year;owner</string>
+    <string name="library_TwitterText_author">Twitter</string>
+    <string name="library_TwitterText_authorWebsite">http://github.com/twitter/</string>
+    <string name="library_TwitterText_libraryName">TwitterText</string>
+    <string name="library_TwitterText_libraryDescription">Java port of the twitter-text handling libraries.</string>
+    <string name="library_TwitterText_libraryVersion">1.13.0</string>
+    <string name="library_TwitterText_libraryWebsite">https://github.com/twitter/twitter-text</string>
+    <string name="library_TwitterText_licenseId">apache_2_0</string>
+    <string name="library_TwitterText_isOpenSource">true</string>
+    <string name="library_TwitterText_repositoryLink">https://github.com/twitter/twitter-text/tree/master/java</string>
+    <string name="library_TwitterText_owner">Twitter</string>
+    <string name="library_TwitterText_year">2015</string>
+</resources>

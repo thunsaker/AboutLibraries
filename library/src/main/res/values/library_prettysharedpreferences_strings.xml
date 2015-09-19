@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="define_int_PrettySharedPreferences"></string>
+    <!-- Author section -->
+    <string name="library_PrettySharedPreferences_author">Nguyen Truong Giang</string>
+    <string name="library_PrettySharedPreferences_authorWebsite">https://github.com/talenguyen</string>
+    <!-- Library section -->
+    <string name="library_PrettySharedPreferences_libraryName">PrettySharedPreferences</string>
+    <string name="library_PrettySharedPreferences_libraryDescription">PrettySharedPreferences is a lightweight library for help you deal with SharedPreferences more easy and reduce most of boilplace code.</string>
+    <string name="library_PrettySharedPreferences_libraryWebsite">https://github.com/talenguyen/PrettySharedPreferences</string>
+    <string name="library_PrettySharedPreferences_libraryVersion">1.0.2</string>
+    <!-- OpenSource section -->
+    <string name="library_PrettySharedPreferences_isOpenSource">true</string>
+    <string name="library_PrettySharedPreferences_repositoryLink">https://github.com/talenguyen/PrettySharedPreferences</string>
+    <!-- License section -->
+    <string name="library_PrettySharedPreferences_licenseId">apache_2_0</string>
+    <!-- Custom variables section -->
+
+</resources>
